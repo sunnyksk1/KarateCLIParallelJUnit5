@@ -21,4 +21,8 @@ Test GitPULL after Git Fetch -- Update differently at local, remote also update 
 
 Testing Git Pull. Change content of "Testing Git Fetch" to "Test GitPULL after Git Fetch" Test!
 
-For Testing Fourth Branch - Testing conflict. Hope it works!!
+For Third Branch - Testing conflict. Hope it works!!
+
+Test Conflict Again - Local content!!
+
+
