@@ -17,6 +17,8 @@ For First Branch - I add this text for testing branching!!! Also add a new file 
 
 For Second Branch - Test send email to sunnykam address when there is a push event
 
-Test GitPULL after Git Fetch
+Test GitPULL after Git Fetch -- Update differently at local, remote also update with other content! - Attempt to test conflict with remote
 
 Testing Git Pull. Change content of "Testing Git Fetch" to "Test GitPULL after Git Fetch" Test!
+
+For Third Branch - Testing conflict. Hope it works!!
